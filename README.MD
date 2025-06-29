@@ -13,7 +13,8 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# O Código Invisível
+## O que a IA faz nos bastidores da nossa rotina.
 
 Desafio de projeto (DIO) com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
